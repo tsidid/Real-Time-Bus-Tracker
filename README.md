@@ -1,5 +1,6 @@
 # Real-Time-Bus-Tracker
 This exercise tracks the movement of a bus from MiT campus to Harvard University Campus and shows all the stops on the route.
+
 How to Run:
 In order to run this in a browser, download the .js,.css and .html files from the repository and run the index.html file in a browser to see the animation.
 
