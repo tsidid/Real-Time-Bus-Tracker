@@ -1,4 +1,5 @@
 # Real-Time-Bus-Tracker
+## Know the location of your bus
 This exercise tracks the movement of a bus from MiT campus to Harvard University Campus and shows all the stops on the route.
 
 How to Run:
@@ -9,3 +10,4 @@ I will introduce a bus along the route and change the view to dark satelite. I w
 
 License Information:
 The Real Time Bus Tracker Exercise is distributed under the MiT license a copy iof which is uploaded into this repository.
+<img src="
